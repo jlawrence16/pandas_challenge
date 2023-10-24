@@ -65,7 +65,7 @@ This new DataFrame should show school performance based on the "School Type"
 ---------------------------------
 I received hekp from TA / AskBCS with one line of code (line 79)
 school_types = school_data.set_index(["school_name"])["type"]
-I was trying to pulkl the same information of data that was alreafy grouped.
+I was trying to pull the same information of data that was alreafy grouped.
 ---------------------------------
 
 
